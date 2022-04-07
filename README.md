@@ -19,4 +19,4 @@ Los orígenes de datos han sido los siguientes:
 
 	2. Timeline: https://www.kaggle.com/datasets/ankitchahal1/sales-data?resource=download
 
-	3. Bee Swarm Chart: dataset de iris importada desde python
+	3. Bee Swarm Chart: dataset de titanic importada desde python
