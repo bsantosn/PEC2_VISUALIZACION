@@ -1,7 +1,7 @@
-PEC2: Técnicas de visualización de datos
+#PEC2: Técnicas de visualización de datos
 
-Alumno: Brais Santos Negreira
-usuario: bsantosn
+<b>Alumno:</b> Brais Santos Negreira
+<b>usuario:</b> bsantosn
 
 Para esta PEC se han echo estas 3 visualizaciones:
 
